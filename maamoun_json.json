@@ -1,0 +1,15 @@
+{
+    "name": "Maamoun Haj Najeeb",
+    "age": 24,
+    "friends": [
+        {
+            "name": "Ahmad Haj Najeeb",
+            "age": 24
+        },
+        {
+            "name": "Abdullah Omesh",
+            "age": 24
+        }
+    ],
+    "other key": null
+}
